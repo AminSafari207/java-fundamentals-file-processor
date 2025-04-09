@@ -1,0 +1,7 @@
+This is a simple test file.
+It contains a few lines and several common words.
+You might see some words repeat, like the word error or fail.
+Sometimes an error is expected, other times it's a real problem.
+Warning: this file is for test purposes only.
+Failure to comply might result in additional warnings or exceptions.
+And yet, it's all just a simulation.
